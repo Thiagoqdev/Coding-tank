@@ -23,8 +23,8 @@ public class Main {
 
             System.out.println("\nsalario " + (i + 1));
             System.out.println("o Salario bruto " + (i+1) + " é R$" + String.format("%.2f", salariobruto));
-            System.out.println("o Desconto de INSS do salario " + (i+1) + " é R$" + String.format("%.2f", descontoInss));
-            System.out.println("o Desconto do imposto de renda é R$" + String.format("%.2f", descontoIr));
+            System.out.println("o Desconto de INSS do salario " + (i+1) + " é de R$" + String.format("%.2f", descontoInss));
+            System.out.println("o Desconto do imposto de renda do salario " +( i +1) + " é de R$" + String.format("%.2f", descontoIr));
             System.out.println("o Salario Liquido " + (i+1) + " é de R$" + String.format("%.2f", salarioLiquido));
         }
 

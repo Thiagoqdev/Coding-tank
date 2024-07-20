@@ -1,2 +1,2 @@
 # Coding-tank
-Entregad de projeto pada o coding tank santander Coder feito em Java
+Entrega de projeto para o coding-tank santander-Coder feito em Java.
